@@ -31,7 +31,6 @@
     </style>
 </head>
 
-# Rat Race Motorsport
 servicing, setup, fixing broken shit wrecked by monkeys
 ![IMG_0470 4.jpg](IMG_0470%204.jpg)
 
