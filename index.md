@@ -28,6 +28,12 @@
             bottom: 0;
             width: 100%;
         }
+        site-header {
+          display: none;
+        }
+        site-footer {
+          display: none;
+        }
     </style>
 </head>
 
