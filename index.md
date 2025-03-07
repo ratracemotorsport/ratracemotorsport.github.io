@@ -47,6 +47,8 @@ some more stuff here
 * MOTs
 * repairs
 
+[Servicing Details](/servicing)
+
 I'm not a designer and have no interest in it. if you want to find someone to do a "proper website", it's easily sortable.
 
 <a href="mailto:ratracemotorsport@btinternet.com">Email ratracemotorsport@btinternet.com</a>
